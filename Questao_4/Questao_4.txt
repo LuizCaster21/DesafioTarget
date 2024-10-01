@@ -1,0 +1,17 @@
+a) 1, 3, 5, 7,
+  São apenas números ímpares em ordem crescente, o próximo seria 9.
+
+b) 2, 4, 8, 16, 32, 64,
+  Nesta sequência o próximo número é sempre o dobro do ultimo, o próximo seria 128.
+
+c) 0, 1, 4, 9, 16, 25, 36,
+  Nesta sequência temos uma contagem a partir do zero, porém elevando os números ao quadrado, o próximo seria 49 (7²).
+
+d) 4, 16, 36, 64,
+  Parecido com a ultima sequencia, porém com números pares elevados ao quadrado, o próximo seria 100 (10²).
+
+e) 1, 1, 2, 3, 5, 8,
+  Aqui temos a sequência de Fibonacci, o próximo seria 13.
+
+f) 2, 10, 12, 16, 17, 18, 19,
+  Creio que seria 20, após o número 12 os números aumentam de 1 em 1.

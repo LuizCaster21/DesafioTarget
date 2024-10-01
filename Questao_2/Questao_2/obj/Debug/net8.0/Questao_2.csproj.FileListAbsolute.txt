@@ -1,0 +1,14 @@
+H:\Computaria\Target\Questao_2\Questao_2\bin\Debug\net8.0\Questao_2.exe
+H:\Computaria\Target\Questao_2\Questao_2\bin\Debug\net8.0\Questao_2.deps.json
+H:\Computaria\Target\Questao_2\Questao_2\bin\Debug\net8.0\Questao_2.runtimeconfig.json
+H:\Computaria\Target\Questao_2\Questao_2\bin\Debug\net8.0\Questao_2.dll
+H:\Computaria\Target\Questao_2\Questao_2\bin\Debug\net8.0\Questao_2.pdb
+H:\Computaria\Target\Questao_2\Questao_2\obj\Debug\net8.0\Questao_2.GeneratedMSBuildEditorConfig.editorconfig
+H:\Computaria\Target\Questao_2\Questao_2\obj\Debug\net8.0\Questao_2.AssemblyInfoInputs.cache
+H:\Computaria\Target\Questao_2\Questao_2\obj\Debug\net8.0\Questao_2.AssemblyInfo.cs
+H:\Computaria\Target\Questao_2\Questao_2\obj\Debug\net8.0\Questao_2.csproj.CoreCompileInputs.cache
+H:\Computaria\Target\Questao_2\Questao_2\obj\Debug\net8.0\Questao_2.dll
+H:\Computaria\Target\Questao_2\Questao_2\obj\Debug\net8.0\refint\Questao_2.dll
+H:\Computaria\Target\Questao_2\Questao_2\obj\Debug\net8.0\Questao_2.pdb
+H:\Computaria\Target\Questao_2\Questao_2\obj\Debug\net8.0\Questao_2.genruntimeconfig.cache
+H:\Computaria\Target\Questao_2\Questao_2\obj\Debug\net8.0\ref\Questao_2.dll

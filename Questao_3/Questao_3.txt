@@ -1,0 +1,20 @@
+int INDICE = 12, SOMA = 0, K = 1; 
+enquanto K < INDICE faça 
+{ 	K = K + 1; 
+	SOMA = SOMA + K; 
+}
+ imprimir(SOMA);
+
+Primeira execução: INDICE = 12 K = 2 SOMA = 2
+Segunda execução: INDICE = 12 K = 3 SOMA = 5
+Terceira execução: INDICE = 12 K = 4 SOMA = 9
+Quarta execução: INDICE = 12 K = 5 SOMA = 14
+Quinta execução: INDICE = 12 K = 6 SOMA = 20
+Sexta execução: INDICE = 12 K = 7 SOMA = 27
+Sétima execução: INDICE = 12 K = 8 SOMA = 35
+Oitava execução: INDICE = 12 K = 9 SOMA = 44
+Nona execução: INDICE = 12 K = 10 SOMA = 54
+Décima execução: INDICE = 12 K = 11 SOMA = 65
+Décima primeira execução: INDICE = 12 K = 12 SOMA = 77
+
+FINAL valor final da variável SOMA é 77
