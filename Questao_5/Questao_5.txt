@@ -1,0 +1,2 @@
+Neste caso vamos enumerar os interruptores por 1,2 e 3
+primeiro eu deixaria o interruptor 1 ligado por um bom tempo, 30 minutos talvez já seria um tempo bom, depois apagaria ele, e acenderia o 2, poderia observar pela casa as lâmpadas, a que estiver acesa, é controlada pelo interruptor 2, a que estiver apagada porem com o bulbo da lâmpada quente é controlada pelo 1 e a restante é controlada pelo interruptor 3.
